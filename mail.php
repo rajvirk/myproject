@@ -1,7 +1,6 @@
 <?php
 
-/*http://52.24.237.138/croplyphpmail/mail.php?firstName=&lastName=&email=&phoneNumber=&ticketedSts=&ans1=&ans2=&ans3=&ans4=&ans5=*/
-/*SEND DETAILS OF PROFILE AND QUESTIONS AS EMAIL*/
+
 
  $firstName			=$_REQUEST['firstName'];
  $lastName			=$_REQUEST['lastName'];
